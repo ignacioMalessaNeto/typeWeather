@@ -6,6 +6,6 @@
     "allowSyntheticDefaultImports": true // Pode importar módulos que não exportam um valor padrão 
   },
   "include": [
-    "vite.config.ts" // Especifica quais arquivos devem ser incluídos no processo de compilação. 
+    "vite.config.ts"  
   ]
 }
